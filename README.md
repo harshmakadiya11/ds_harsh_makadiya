@@ -2,6 +2,7 @@
 
 ## 👤 Candidate
 **Name:** Harsh Makadiya 
+
 **Folder:** `ds_harsh_makadiya`  
 
 ---
@@ -70,5 +71,6 @@ You can view and run the full analysis here:
 - **Extreme Greed** → Safe but low profitability (*reduce exposure*).  
 - **Neutral** → Most consistent and efficient environment.  
 - **Greed overall** → Weakest efficiency, risk of overtrading.  
+
 
 
